@@ -1,6 +1,7 @@
+import './App2.css';
+import './Common.css';
+
 import { useEffect, useRef, useState } from 'react';
-import './App2.scss';
-import './Common.scss';
 
 // Frame correct aria-label to the button
 

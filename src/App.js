@@ -1,5 +1,5 @@
-import './App.scss';
-import './Common.scss';
+import './App.css';
+import './Common.css';
 
 import { useEffect, useRef, useState } from 'react';
 

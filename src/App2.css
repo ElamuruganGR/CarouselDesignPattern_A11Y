@@ -156,10 +156,6 @@
   display: none;
 }
 
-.carousel-container .inner #carousel-items li .carousel-status {
-  position: absolute;
-}
-
 .carousel-container .inner #carousel-items li img {
   position: absolute;
   padding: 0;
@@ -199,4 +195,9 @@
 .carousel-container .inner #carousel-items li button:hover {
   border: 3px solid white;
 }
-/*# sourceMappingURL=App.css.map */
+
+.carousel-container .inner .carousel-status {
+  position: absolute;
+  left: -1000px;
+}
+/*# sourceMappingURL=App2.css.map */
